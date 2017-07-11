@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação para a exibição de eventos, usando rspec 3.6 e rails 5.1.2
 
 Things you may want to cover:
 
@@ -21,4 +20,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
